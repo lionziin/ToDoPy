@@ -1,6 +1,5 @@
  <h1 align="center"> ToDo Py </h1>
- !(http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
- https://img.shields.io/github/issues/lionziin/ToDoPy
+
  
  Array Study and Modification in Python Simple("To do List")
  
