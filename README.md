@@ -1,7 +1,8 @@
  <h1 align="center"> ToDo Py </h1>
 
  
- Array Study and Modification in Python Simple("To do List")
+Array Study and Modification in Python Simple("To do List")
+Using the 'PySimpleGUI' framework to design something nicer
  
  
  
